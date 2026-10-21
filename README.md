@@ -65,8 +65,7 @@ clone the repository) - A Groq API key, if required by your code
 
 1.  Clone your repository:
 
-    git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git cd
-    YOUR-REPOSITORY
+    git clone https:https://github.com/ipratibhagupta9-lang/Multi-Agent-AI-Research-Assistant-using-Python
 
 2.  Create a virtual environment:
 
